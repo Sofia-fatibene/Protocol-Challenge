@@ -2,13 +2,13 @@
 Writing a protocol to communicate a random image to someone else across a football field using colored flags. 
 
 ## Restrictions/Rules
-At most 3 flags can be used at each end node
-You make your own flags
-Flags can all be the same colour ⚑⚑⚑ or different colours ⚑🏳🚩each
-Flags can only be raised or lowered to send a signal
-Nodes cannot communicate using any other means (body language, sound, smell, haptics, other visuals, etc.)
-Any number of flags can be raised or lowered at the same time
-A maximum of (TBA) minutes is permitted to transfer an image
+1) At most 3 flags can be used at each end node
+2) You make your own flags
+3) Flags can all be the same colour ⚑⚑⚑ or different colours ⚑🏳🚩each
+4) Flags can only be raised or lowered to send a signal
+5) Nodes cannot communicate using any other means (body language, sound, smell, haptics, other visuals, etc.)
+6) Any number of flags can be raised or lowered at the same time
+7) A maximum of (TBA) minutes is permitted to transfer an image
 
 
 # Initial Idea (Not final)
