@@ -17,7 +17,7 @@ idea (if we put one flag up before the other we can when using the combanation t
 ### Their flags (recivers) 
 1. three flags:
 -Orange  > "Repeat the entier protocol"
--Blue > "Repeat the last flag"
+-Blue > "Repeat the last row"
 -Green >  "All good"  
 
 2. Have a series of combination of flags combined to express a certain command:
